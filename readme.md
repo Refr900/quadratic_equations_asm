@@ -1,6 +1,6 @@
 # QUADRATIC EQUATIONS
 
-Trying to write a function to solve simple quadratic equations in NASM for win64 for learning purposes.
+Trying to write a function to solve simple quadratic equations in NASM for win64 ***for learning purposes***.
 
 # Build
 
