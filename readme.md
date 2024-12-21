@@ -1,4 +1,4 @@
-# QUADRATIC EQUATIONS
+# Quadratic equations
 
 Trying to write a function to solve simple quadratic equations in NASM for win64 ***for learning purposes***.
 
